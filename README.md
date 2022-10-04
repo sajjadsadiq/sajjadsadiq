@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, Welcome to my profile. 👋
 
-Hey! I'm Sajjad Sadiq, I am a MERN Stack Software Developer with Industry Experience building Websites and Web Applications. I specialize in JavaScript and have professional experience working with React, Node, MongoDB, and Typescript. I consider myself a good honest hard working MEAN. 
+I'm **Sajjad Sadiq**, I have more than **1+ year** of experience in **MERN Stack Software Developer** with Industry Experience building Websites and Web Applications. I specialize in **JavaScript** and have professional experience working with **React, Redux, Typescript, Node and MongoDB. I consider myself a good honest hard working **MEAN**. 
  .
 
 Technologies used:
