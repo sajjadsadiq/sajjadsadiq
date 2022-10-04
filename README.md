@@ -1,7 +1,9 @@
-### Hi there, Welcome to my profile. 👋
+### Hi there, *Welcome to my profile*. 👋
 
 I'm **Sajjad Sadiq**, I have more than **1+ year** of experience in **MERN Stack Software Developer** with Industry Experience building Websites and Web Applications. I specialize in **JavaScript** and have professional experience working with **React, Redux, Typescript, Node and MongoDB. I consider myself a good honest hard working **MEAN**. 
- .
+ 
+ 
+*I am a quick learner. I believe in hard work and efficiency. That's why I am always ready to accomplish any task by working hard. I always focus on learning new technology.*
 
 Technologies used:
 ---------------------
