@@ -1,5 +1,6 @@
 ###  Welcome to my profile
-![](https://media-exp1.licdn.com/dms/image/C5616AQGmjQIiS2ht2g/profile-displaybackgroundimage-shrink_350_1400/0/1637123735515?e=1671062400&v=beta&t=YzJCyDmcIc9s-Rn2QNRqMzGd-4oGoUsasV9l5bN7pms)
+![](https://i.ibb.co/Bnbjj2F/Sajjad-Sadiq-MERN-Stack.png)
+
 
 
 ### Hi there,👋
