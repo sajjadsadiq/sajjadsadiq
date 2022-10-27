@@ -1,11 +1,11 @@
 ###  <h1 align="center" >Welcome to my profile</h1>
-![](https://i.ibb.co/Bnbjj2F/Sajjad-Sadiq-MERN-Stack.png)
+![](https://media-exp1.licdn.com/dms/image/D5616AQHA9Z8BURFEFQ/profile-displaybackgroundimage-shrink_350_1400/0/1666174659374?e=1672272000&v=beta&t=nKNhIWjA6Q25zdhlPwmtUvmf0hurWQM_Gxw28kaYoIU)
 
 
 
 ### Hi there,👋
 
-I'm **Sajjad Sadiq**, I have more than **1+ year** of experience in **MERN Stack Software Developer** with Industry Experience building Websites and Web Applications. I specialize in **JavaScript** and have professional experience working with **React, Redux, Typescript, Node and MongoDB**. I consider myself a good honest hard working **MEAN**. 
+I'm **Sajjad Sadiq**, I have more than **1+ year** of experience in **Front End Developer** with Industry Experience building Websites and Web Applications. I specialize in **JavaScript** and have professional experience working with **React, Redux, Typescript, Tailwind CSS and API**. I consider myself a good honest hard working **MEAN**. 
  
  
 *I am a quick learner. I believe in hard work and efficiency. That's why I am always ready to accomplish any task by working hard. I always focus on learning new technology.*
@@ -32,13 +32,9 @@ Technologies used:
 
 <br />
 
-✅ Expertise: JavaScript, ES6, React, Redux, Bootstrap, React Bootstrap, Material UI, React Icons,s, etc.
-
-✅ Comfortable: Angular, Typescript, Node JS, Express JS, SCSS, JSON, npm, MySQL, Skeleton, Firebase, etc.
-
-✅ Familiar: React native, Chrome extension, python, SQL, PHP, etc.
-
-✅ Tools: Git, Webpack, Chrome Dev Tool, Firebase, Heroku, Netlify, VS Code, etc.
+✅ Industry Knowledge: React.js, JavaScript, REST APIs, CSS3, Bootstrap, SASS, HTML5, Firebase etc.
+✅Technical Skills: Typescript, JavaScript, Tailwind CSS, daisyUI, NPM, Node JS, Express JS, etc.
+✅ Soft Skills: Communication, Teamwork, Time Management, Leadership
 
 
 I am a very optimistic person and I like to have fun and be happy. My favorite book about software development is Code Complete(Steve McConnell). I'm looking forward to working with you.
