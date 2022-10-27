@@ -11,7 +11,11 @@ I'm **Sajjad Sadiq**, I have more than **1+ year** of experience in **Front End 
 *I am a quick learner. I believe in hard work and efficiency. That's why I am always ready to accomplish any task by working hard. I always focus on learning new technology.*
 
 Technologies used:
----------------------
+------------------
+
+✅ **Industry Knowledge**: React.js, JavaScript, REST APIs, CSS3, Bootstrap, SASS, HTML5, Firebase etc. <br/>
+✅**Technical Skills**: Typescript, JavaScript, Tailwind CSS, daisyUI, NPM, Node JS, Express JS, etc. <br/>
+✅ **Soft Skills**: Communication, Teamwork, Time Management, Leadership <br/>
 
 <h3 align="center">A passionate frontend development</h3>
 
@@ -32,9 +36,6 @@ Technologies used:
 
 <br />
 
-✅ Industry Knowledge: React.js, JavaScript, REST APIs, CSS3, Bootstrap, SASS, HTML5, Firebase etc.
-✅Technical Skills: Typescript, JavaScript, Tailwind CSS, daisyUI, NPM, Node JS, Express JS, etc.
-✅ Soft Skills: Communication, Teamwork, Time Management, Leadership
 
 
 I am a very optimistic person and I like to have fun and be happy. My favorite book about software development is Code Complete(Steve McConnell). I'm looking forward to working with you.
