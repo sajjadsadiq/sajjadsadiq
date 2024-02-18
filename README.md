@@ -5,7 +5,7 @@
 
 ### Hi there,👋
 
-I'm **Sajjad Sadiq**, I have more than **1+ year** of experience in **Front End Developer** with Industry Experience building Websites and Web Applications. I specialize in **JavaScript** and have professional experience working with **React, Redux, Typescript, Tailwind CSS and API**. I consider myself a good honest hard working **MEAN**. 
+I'm **Sajjad Sadiq**, I have more than **2+ year** of experience in **Front End Developer** with Industry Experience building Websites and Web Applications. I specialize in **JavaScript** and have professional experience working with **React, Redux, Typescript, Tailwind CSS and API**. I consider myself a good honest hard working **MEAN**. 
  
  
 *I am a quick learner. I believe in hard work and efficiency. That's why I am always ready to accomplish any task by working hard. I always focus on learning new technology.*
